@@ -1,2 +1,2 @@
-# sushiman
-# Responsive website for Sushi
+# Sushiman
+## Responsive website for Sushi
